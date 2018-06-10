@@ -21,6 +21,12 @@
 				}
 			},
 			{
+				"function":  "powerline.segments.common.wthr.weather",
+				"args": {
+					"unit": "F"
+				}
+			},
+			{
 				"function": "powerline.segments.common.net.hostname"
 			}
 		]
